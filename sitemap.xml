@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sidehustler.co.za/categories/</loc>
+    <loc>https://github.com/joblife/sidehustler.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sidehustler.co.za/</loc>
+    <loc>https://github.com/joblife/sidehustler.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sidehustler.co.za/tags/</loc>
+    <loc>https://github.com/joblife/sidehustler.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
