@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SideHustler | Learn how South Africans hustle</title>
-    <link>//sidehustler.github.io/</link>
+    <link>https://joblife.github.io/sidehustler.github.io/</link>
     <description>Recent content on SideHustler | Learn how South Africans hustle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2020 00:36:36 +0200</lastBuildDate>
     
-	<atom:link href="//sidehustler.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joblife.github.io/sidehustler.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About SlideHustler</title>
-      <link>//sidehustler.github.io/about/</link>
+      <link>https://joblife.github.io/sidehustler.github.io/about/</link>
       <pubDate>Sun, 19 Jan 2020 00:36:36 +0200</pubDate>
       
-      <guid>//sidehustler.github.io/about/</guid>
+      <guid>https://joblife.github.io/sidehustler.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacies</title>
-      <link>//sidehustler.github.io/privacy/</link>
+      <link>https://joblife.github.io/sidehustler.github.io/privacy/</link>
       <pubDate>Sun, 19 Jan 2020 00:36:36 +0200</pubDate>
       
-      <guid>//sidehustler.github.io/privacy/</guid>
+      <guid>https://joblife.github.io/sidehustler.github.io/privacy/</guid>
       <description></description>
     </item>
     
