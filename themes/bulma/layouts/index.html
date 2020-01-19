@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="hero is-medium is-info">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title is-size-1">
+                Real South African Side Hustles
+            </h1>
+            <h2 class="subtitle is-size-3">
+                Submit your side hustle today!
+            </h2>
+            <button class="button is-info is-large is-inverted is-rounded">Tell Your Story</button>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="level">
+            <h1 class="title">Interviews</h1>
+        </div>
+        <div class="columns is-multiline">
+            {{ range .Site.Data.interviews }}
+            <div class="column is-one-third">
+                {{ partial "interview.html" . }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background:"#F6F9FC";
+  }
+
+  .navbar-item img {
+    max-height: 2.75rem;
+}
+
+  
+  
+  .section {
+    flex: 1;
+  }

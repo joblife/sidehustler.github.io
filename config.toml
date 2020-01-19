@@ -1,0 +1,4 @@
+baseURL = "http://sidehustler.co.za"
+languageCode = "en-us"
+title = "SideHustler | Learn how South Africans hustle"
+theme = "bulma"
