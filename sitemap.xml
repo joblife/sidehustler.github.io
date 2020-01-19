@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//sidehustler.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>//sidehustler.github.io/about/</loc>
+    <lastmod>2020-01-19T00:36:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//sidehustler.github.io/privacy/</loc>
+    <lastmod>2020-01-19T00:36:36+02:00</lastmod>
   </url>
   
   <url>
     <loc>//sidehustler.github.io/</loc>
+    <lastmod>2020-01-19T00:36:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//sidehustler.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
