@@ -19,7 +19,20 @@
   </url>
   
   <url>
+    <loc>https://sidehustler.africa/interviews/joblife/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sidehustler.africa/interviews/scarfbox/</loc>
+  </url>
+  
+  <url>
     <loc>https://sidehustler.africa/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidehustler.africa/interviews/</loc>
     <priority>0</priority>
   </url>
   

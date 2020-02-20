@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SideHustler | Learn how South Africans hustle</title>
+    <title>SideHustler | Learn how Africans hustle</title>
     <link>https://sidehustler.africa/</link>
-    <description>Recent content on SideHustler | Learn how South Africans hustle</description>
+    <description>Recent content on SideHustler | Learn how Africans hustle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2020 00:36:36 +0200</lastBuildDate>
@@ -26,6 +26,24 @@
       <pubDate>Sun, 19 Jan 2020 00:36:36 +0200</pubDate>
       
       <guid>https://sidehustler.africa/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidehustler.africa/interviews/joblife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidehustler.africa/interviews/joblife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sidehustler.africa/interviews/scarfbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sidehustler.africa/interviews/scarfbox/</guid>
       <description></description>
     </item>
     
